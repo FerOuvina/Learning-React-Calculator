@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Learning-React-Calculator/static/css/main.c24ef648.css",
+    "main.js": "/Learning-React-Calculator/static/js/main.88eb518f.js",
+    "static/media/gif-season.gif": "/Learning-React-Calculator/static/media/gif-season.708e1439aec5673f5569.gif",
+    "index.html": "/Learning-React-Calculator/index.html",
+    "main.c24ef648.css.map": "/Learning-React-Calculator/static/css/main.c24ef648.css.map",
+    "main.88eb518f.js.map": "/Learning-React-Calculator/static/js/main.88eb518f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c24ef648.css",
+    "static/js/main.88eb518f.js"
+  ]
+}
