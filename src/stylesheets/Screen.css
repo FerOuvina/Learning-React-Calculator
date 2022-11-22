@@ -1,0 +1,22 @@
+:root {
+  --green: #99b898;
+  --yellow: #fecea8;
+  --pink: #ff847c;
+  --red: #e84a5f;
+  --black: #2a363b;
+}
+
+.input {
+  height: 80px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: var(--yellow);
+  margin: 0.2rem 0.5rem;
+  color: var(--black);
+  font-size: 2rem;
+  word-break: break-all;
+  padding: 10px;
+  padding-right: 30px;
+}
